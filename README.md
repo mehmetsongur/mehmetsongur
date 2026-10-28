@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Mehmet Songur 👋
 
-<!--
-**mehmetsongur/mehmetsongur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prof. Dr. · Department of Economics, Faculty of Economics and Administrative Sciences, Dicle University · Diyarbakır, Türkiye
 
-Here are some ideas to get you started:
+I work on macroeconomics, finance, and energy economics. I apply ARDL bounds testing, Granger causality, and panel data methods to Turkish data, and I increasingly focus on bringing machine learning and AI methods into economic research and teaching.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research Areas
+Macroeconomics: fiscal policy, monetary policy, unemployment, fiscal sustainability
+Finance: stock prices, exchange rates, crypto assets
+Energy economics: renewable energy, employment, production functions and elasticity of substitution
+Methods: ARDL, Granger causality, panel data, machine learning
+Interactive Tools and Simulators
+
+Browser-based teaching and research tools I build for my courses:
+
+Econometric Indicator Simulator: open-source tool on exchange-rate pass-through and interest–inflation dynamics → repository
+Multiplier Simulator: macro teaching tool with linked panels, from the multiplier effect to IS-LM-BP and AS-AD models
+Microeconomics Simulators: consumer and producer behavior modules
+Links
+🌐 Website: songurmehmet.com
+𝕏 @mehmetsongur_
