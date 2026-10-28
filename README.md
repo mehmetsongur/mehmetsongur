@@ -17,7 +17,7 @@ Browser-based teaching and research tools I build for my courses:
 
 - **Econometric Indicator Simulator:** open-source tool on exchange-rate pass-through and interest–inflation dynamics → [repository](https://github.com/mehmetsongur/ekonometrik-gosterge-simulatoru)
 - **Multiplier Simulator:** macro teaching tool with linked panels, from the multiplier effect to IS-LM-BP and AS-AD models
-- **Microeconomics Simulators:** consumer and producer behavior modules
+- **Microeconomics Simulator: Consumer Theory:** 20-lesson interactive course from utility to demand, welfare and revealed preference → [repository](https://github.com/mehmetsongur/Microeconomics-Simulator-Consumer-Theory) · [live simulator](https://www.songurmehmet.com/simulatorler/microeconomics-simulator-consumer-theory.html)
 
 ## Links
 
