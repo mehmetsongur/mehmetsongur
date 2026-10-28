@@ -19,16 +19,16 @@ Browser-based teaching and research tools I build for my courses:
 
 ## Academic Profiles
 
-- [Google Scholar](https://scholar.google.com.tr/citations?user=aIydQBUAAAAJ&hl=en)
-- [ORCID](https://orcid.org/0000-0003-4763-9314)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211849417)
-- [Web of Science](https://www.webofscience.com/wos/author/record/ABI-2540-2020)
+- <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="16" height="16" alt=""> [Google Scholar](https://scholar.google.com.tr/citations?user=aIydQBUAAAAJ&hl=en)
+- <img src="https://cdn.simpleicons.org/orcid/A6CE39" width="16" height="16" alt=""> [ORCID](https://orcid.org/0000-0003-4763-9314)
+- <img src="https://cdn.simpleicons.org/scopus/E9711C" width="16" height="16" alt=""> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211849417)
+- <img src="https://cdn.simpleicons.org/clarivate/9D2B6B" width="16" height="16" alt=""> [Web of Science](https://www.webofscience.com/wos/author/record/ABI-2540-2020)
 
 ## Links
 
 - 🌐 Website: [songurmehmet.com](https://songurmehmet.com)
 - 𝕏 [@mehmetsongur_](https://x.com/mehmetsongur_)
-- [LinkedIn](https://tr.linkedin.com/in/mehmetsongur)
-- [YouTube](https://www.youtube.com/channel/UCfeckeM1sASHHl5ZmQ7lqDQ)
-- [Instagram](https://www.instagram.com/mmtsngr/)
-- [Medium](https://medium.com/@mmtsngr)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" alt=""> [LinkedIn](https://tr.linkedin.com/in/mehmetsongur)
+- <img src="https://cdn.simpleicons.org/youtube/FF0000" width="16" height="16" alt=""> [YouTube](https://www.youtube.com/channel/UCfeckeM1sASHHl5ZmQ7lqDQ)
+- <img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" height="16" alt=""> [Instagram](https://www.instagram.com/mmtsngr/)
+- <img src="https://cdn.simpleicons.org/medium/00AB6C" width="16" height="16" alt=""> [Medium](https://medium.com/@mmtsngr)
