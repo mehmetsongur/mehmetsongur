@@ -2,14 +2,14 @@
 
 **Prof. Dr.** · Department of Economics, Faculty of Economics and Administrative Sciences, Dicle University · Diyarbakır, Türkiye
 
-I work on macroeconomics, finance, and energy economics. I apply ARDL bounds testing, Granger causality, and panel data methods to Turkish data, and I increasingly focus on bringing machine learning and AI methods into economic research and teaching.
+I apply ARDL bounds testing, Granger causality, and panel data methods to Turkish data, and I increasingly focus on bringing machine learning and AI methods into economic research and teaching.
 
-## Research Areas
+## Areas of Specialisation
 
-- **Macroeconomics:** fiscal policy, monetary policy, unemployment, fiscal sustainability
-- **Finance:** stock prices, exchange rates, crypto assets
-- **Energy economics:** renewable energy, employment, production functions and elasticity of substitution
-- **Methods:** ARDL, Granger causality, panel data, machine learning
+- Economics
+- Macroeconomics
+- Econometrics
+- Applied AI
 
 ## Interactive Tools and Simulators
 
