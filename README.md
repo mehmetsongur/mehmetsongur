@@ -31,3 +31,4 @@ Browser-based teaching and research tools I build for my courses:
 - [LinkedIn](https://tr.linkedin.com/in/mehmetsongur)
 - [YouTube](https://www.youtube.com/channel/UCfeckeM1sASHHl5ZmQ7lqDQ)
 - [Instagram](https://www.instagram.com/mmtsngr/)
+- [Medium](https://medium.com/@mmtsngr)
