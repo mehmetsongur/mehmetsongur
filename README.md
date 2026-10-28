@@ -27,7 +27,7 @@ Browser-based teaching and research tools I build for my courses:
 ## Links
 
 - 🌐 [songurmehmet.com](https://songurmehmet.com)
-- 𝕏 [@mehmetsongur_](https://x.com/mehmetsongur_)
+- 𝕏 [X](https://x.com/mehmetsongur_)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" alt=""> [LinkedIn](https://tr.linkedin.com/in/mehmetsongur)
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" width="16" height="16" alt=""> [YouTube](https://www.youtube.com/channel/UCfeckeM1sASHHl5ZmQ7lqDQ)
 - <img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" height="16" alt=""> [Instagram](https://www.instagram.com/mmtsngr/)
