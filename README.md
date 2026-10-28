@@ -15,11 +15,19 @@ I work on macroeconomics, finance, and energy economics. I apply ARDL bounds tes
 
 Browser-based teaching and research tools I build for my courses:
 
-- **Econometric Indicator Simulator:** open-source tool on exchange-rate pass-through and interest–inflation dynamics → [repository](https://github.com/mehmetsongur/ekonometrik-gosterge-simulatoru)
-- **Multiplier Simulator:** macro teaching tool with linked panels, from the multiplier effect to IS-LM-BP and AS-AD models
 - **Microeconomics Simulator: Consumer Theory:** 20-lesson interactive course from utility to demand, welfare and revealed preference → [repository](https://github.com/mehmetsongur/Microeconomics-Simulator-Consumer-Theory) · [live simulator](https://www.songurmehmet.com/simulatorler/microeconomics-simulator-consumer-theory.html)
+
+## Academic Profiles
+
+- [Google Scholar](https://scholar.google.com.tr/citations?user=aIydQBUAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0003-4763-9314)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211849417)
+- [Web of Science](https://www.webofscience.com/wos/author/record/ABI-2540-2020)
 
 ## Links
 
 - 🌐 Website: [songurmehmet.com](https://songurmehmet.com)
 - 𝕏 [@mehmetsongur_](https://x.com/mehmetsongur_)
+- [LinkedIn](https://tr.linkedin.com/in/mehmetsongur)
+- [YouTube](https://www.youtube.com/channel/UCfeckeM1sASHHl5ZmQ7lqDQ)
+- [Instagram](https://www.instagram.com/mmtsngr/)
