@@ -17,6 +17,10 @@ Browser-based teaching and research tools I build for my courses:
 
 - **Microeconomics Simulator: Consumer Theory:** 20-lesson interactive course from utility to demand, welfare and revealed preference → [repository](https://github.com/mehmetsongur/Microeconomics-Simulator-Consumer-Theory) · [live simulator](https://www.songurmehmet.com/simulatorler/microeconomics-simulator-consumer-theory.html)
 
+## Courses
+
+- **Machine Learning in Economics and Finance** (in Turkish): 14-week course at Dicle University with weekly slides, lecture videos and code → [repository](https://github.com/mehmetsongur/Machine-Learning-in-Economics-and-Finance) · [course page](https://www.songurmehmet.com/dersler/ekonomi-ve-finansta-makine-ogrenmesi.html)
+
 ## Academic Profiles
 
 - <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="16" height="16" alt=""> [Google Scholar](https://scholar.google.com.tr/citations?user=aIydQBUAAAAJ&hl=en)
