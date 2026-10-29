@@ -16,6 +16,7 @@ I apply ARDL bounds testing, Granger causality, and panel data methods to Turkis
 Browser-based teaching and research tools I build for my courses:
 
 - **Microeconomics Simulator: Consumer Theory:** 20-lesson interactive course from utility to demand, welfare and revealed preference → [repository](https://github.com/mehmetsongur/Microeconomics-Simulator-Consumer-Theory) · [live simulator](https://www.songurmehmet.com/simulatorler/microeconomics-simulator-consumer-theory.html)
+- **Microeconomics Simulator: Producer Theory:** 20-lesson interactive course from production and costs to profit maximization and supply → [repository](https://github.com/mehmetsongur/Microeconomics-Simulator-Producer-Theory) · [live simulator](https://www.songurmehmet.com/simulatorler/microeconomics-simulator-producer-theory.html)
 
 ## Courses
 
